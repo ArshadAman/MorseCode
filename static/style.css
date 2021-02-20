@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    color:aliceblue;
+}
+.main-heading{
+    font-size: 4.5rem;
+    text-align: center;
+    border: 15px solid green;
+    background-color: black;
+    font-family: 'Pacifico', cursive;
+}
+.jumbotron{
+    background-color: black;
+}
+.display-4{
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.button{
+    text-align: center;
+    justify-content: center;
+    padding-top: 8%;
+}
+
+p{
+    font-family: cursive;
+    font-weight: 200;
+}
+
+.btn{
+    font-family: 'Fredoka One', cursive;
+}
+
+.form{
+    text-align: center;
+    padding-top: 8%;
+}
+
+input[type=text] {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
+#output{
+    background-color: black;
+    color: white;
+}
